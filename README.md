@@ -53,9 +53,9 @@
 
 ## 📊 Статистика GitHub
 
-![Ваши языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Ваши языки программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyZTK&layout=compact&theme=radical)
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=AnatolyZTK&show_icons=true&theme=radical)
 
 ## 📫 Как со мной связаться
 
